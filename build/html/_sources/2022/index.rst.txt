@@ -11,7 +11,6 @@
    :caption: Contents:
     
    项目信息
-   about
 
 Indices and tables
 ==================
